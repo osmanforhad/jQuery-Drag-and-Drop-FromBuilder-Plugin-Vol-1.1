@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 21, 2018, 5:37:49 PM
+    Author     : osman~Forhad
+*/
+.warpper{
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.left_bar{
+    /*    background-color: cadetblue;*/
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 2;
+}
+h3{
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    white-space: nowrap;
+    z-index: 2;
+}
+.panel_body{
+    overflow: hidden;
+    position: relative;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: whitesmoke;
+}
+
